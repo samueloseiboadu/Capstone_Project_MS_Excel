@@ -19,8 +19,8 @@ Dynamic Dashboards: Two interactive dashboards designed to provide comprehensive
    To provide key insights into sales performance and product trends.
 
 ## Objective
-1. Dashboard 1: Focuses on sales and order trends across months to identify peak performance periods.
-2. Dashboard 2: Compares sales of fruits and vegetables across various countries.
+* Dashboard 1: Focuses on sales and order trends across months to identify peak performance periods.
+* Dashboard 2: Compares sales of fruits and vegetables across various countries.
 
 
 ## Insights: DASHBOARD 1 (Overall Sales Overview)
