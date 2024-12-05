@@ -12,6 +12,7 @@ This project uses pivot tables and interactive dashboards to analyze sales perfo
 ## Key Features of My Project
 
 Pivot Tables: Utilization of one-dimensional and two-dimensional pivot tables for detailed data analysis and reporting.
+
 Dynamic Dashboards: Two interactive dashboards designed to provide comprehensive insights.
 
 ## Purpose 
