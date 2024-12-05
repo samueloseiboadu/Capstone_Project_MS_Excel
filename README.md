@@ -1,6 +1,9 @@
+## DASHBOARD 1
 ![Alt text](https://github.com/user-attachments/assets/725e871d-91c3-4700-8972-7c425efaf0e3)
 
+## DASHBOARD 2
 ![Alt text](https://github.com/user-attachments/assets/1b4d6288-6921-4dde-8828-105ce1220506)
+
 
 # INTRODUCTION
 
