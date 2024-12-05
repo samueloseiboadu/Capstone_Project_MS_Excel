@@ -11,33 +11,33 @@ This project uses pivot tables and interactive dashboards to analyze sales perfo
 
 ## Key Features of My Project
 
-Pivot Tables: Utilization of one-dimensional and two-dimensional pivot tables for detailed data analysis and reporting.
+* Pivot Tables: Utilization of one-dimensional and two-dimensional pivot tables for detailed data analysis and reporting.
 
-Dynamic Dashboards: Two interactive dashboards designed to provide comprehensive insights.
+* Dynamic Dashboards: Two interactive dashboards designed to provide comprehensive insights.
 
 ## Purpose 
-   To provide key insights into sales performance and product trends.
+* To provide key insights into sales performance and product trends.
 
 ## Objective
 * Dashboard 1: Focuses on sales and order trends across months to identify peak performance periods.
+  
 * Dashboard 2: Compares sales of fruits and vegetables across various countries.
 
 
 ## Insights: DASHBOARD 1 (Overall Sales Overview)
-1. March stands out with the highest sales, generating $104,566. This suggests a peak in customer demand or successful promotions during this period.
-2. April saw the lowest sales at $49,474. This dip might indicate the need for targeted promotions or seasonal adjustments during this month.
-3. While sales figures vary significantly, the order count remains relatively consistent, showing stable customer activity. 
+* March stands out with the highest sales, generating $104,566. This suggests a peak in customer demand or successful promotions during this period.                                     * April saw the lowest sales at $49,474. This dip might indicate the need for targeted promotions or seasonal adjustments during this month.
+* While sales figures vary significantly, the order count remains relatively consistent, showing stable customer activity. 
 
 
 ## Insights: DASHBOARD 2 (Fruits and Vegetables Market Analysis)
-1. The United States leads sales with a total of $267,133, making it a key market for both fruits and vegetables. The high demand in this region offers significant business opportunities.
-2. Fruits consistently outperform vegetables across all regions, with total sales of $693,069 for fruits compared to $336,665 for vegetables. This suggests higher consumer demand for fruits or more favorable pricing strategies.
-3. Countries like Germany and France represent strong markets that have the potential for growth, especially in the category of fruits.
+* The United States leads sales with a total of $267,133, making it a key market for both fruits and vegetables. The high demand in this region offers significant business opportunities.
+* Fruits consistently outperform vegetables across all regions, with total sales of $693,069 for fruits compared to $336,665 for vegetables. This suggests higher consumer demand for fruits or more favorable pricing strategies.
+* Countries like Germany and France represent strong markets that have the potential for growth, especially in the category of fruits.
 
 ## Recommendations
-1. Given the peak in March, businesses should focus marketing campaigns around this month to maximize sales.
-2. Launching promotions or discounts to encourage sales can address April's dip.
-3. With fruits outperforming vegetables, companies should focus on expanding their fruit offerings and explore ways to improve vegetable sales.
+* Given the peak in March, businesses should focus marketing campaigns around this month to maximize sales.
+* Launching promotions or discounts to encourage sales can address April's dip.
+* With fruits outperforming vegetables, companies should focus on expanding their fruit offerings and explore ways to improve vegetable sales.
 
 
 ## Conclusion
