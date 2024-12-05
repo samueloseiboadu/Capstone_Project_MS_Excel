@@ -25,18 +25,25 @@ This project uses pivot tables and interactive dashboards to analyze sales perfo
 
 
 ## Insights: DASHBOARD 1 (Overall Sales Overview)
-* March stands out with the highest sales, generating $104,566. This suggests a peak in customer demand or successful promotions during this period.                                     * April saw the lowest sales at $49,474. This dip might indicate the need for targeted promotions or seasonal adjustments during this month.
+* March stands out with the highest sales, generating $104,566. This suggests a peak in customer demand or successful promotions during this period.
+  
+* April saw the lowest sales at $49,474. This dip might indicate the need for targeted promotions or seasonal adjustments during this month.
+  
 * While sales figures vary significantly, the order count remains relatively consistent, showing stable customer activity. 
 
 
 ## Insights: DASHBOARD 2 (Fruits and Vegetables Market Analysis)
 * The United States leads sales with a total of $267,133, making it a key market for both fruits and vegetables. The high demand in this region offers significant business opportunities.
+  
 * Fruits consistently outperform vegetables across all regions, with total sales of $693,069 for fruits compared to $336,665 for vegetables. This suggests higher consumer demand for fruits or more favorable pricing strategies.
+  
 * Countries like Germany and France represent strong markets that have the potential for growth, especially in the category of fruits.
 
 ## Recommendations
 * Given the peak in March, businesses should focus marketing campaigns around this month to maximize sales.
+  
 * Launching promotions or discounts to encourage sales can address April's dip.
+  
 * With fruits outperforming vegetables, companies should focus on expanding their fruit offerings and explore ways to improve vegetable sales.
 
 
